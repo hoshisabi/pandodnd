@@ -21,7 +21,7 @@ title: Pando DnD — D&D Adventurers League at Pandemonium Games
     <div class="day">Fridays</div>
     <h3>In-Person Games</h3>
     <p>Limited seating &mdash; one table at Pandemonium Games. Currently running the <a href="https://hoshisabi.com/rpg/icewind-dale/public/">Icewind Dale campaign</a>.</p>
-    <a href="https://warhorn.net/events/pandodnd">Sign up on Warhorn &rarr;</a>
+    <p>To join, connect on <a href="https://discord.gg/dbB5RYH5P7">Discord</a> and contact hoshisabi.</p>
   </div>
 </div>
 
