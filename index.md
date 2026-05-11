@@ -1,23 +1,36 @@
-### Welcome to D&D Adventurers League at Pandemonium Games and Hobbies
+---
+layout: default
+title: Pando DnD — D&D Adventurers League at Pandemonium Games
+---
 
-Pandemonium Games is located at 6033 Middlebelt Rd, Garden City, MI 48135
+<div class="hero">
+  <h1>D&D Adventurers League</h1>
+  <p class="subtitle">At Pandemonium Games and Hobbies &mdash; 6033 Middlebelt Rd, Garden City, MI 48135</p>
+</div>
 
-test!
+## When We Play
 
-<!--iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2949.600302818344!2d-83.33119223165905!3d42.32972318669584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x883b4b636c2022d5%3A0x150b873e7b722eb0!2s6033+Middlebelt+Rd%2C+Garden+City%2C+MI+48135!5e0!3m2!1sen!2sus!4v1516813824051" width="600" height="100" frameborder="0" style="border:0" allowfullscreen-->
+<div class="sessions">
+  <div class="session-card">
+    <div class="day">Wednesdays</div>
+    <h3>Online Games</h3>
+    <p>7pm&ndash;9pm via Discord. Sign up on Warhorn to grab a seat at a table.</p>
+    <a href="https://warhorn.net/events/pandodnd">Sign up on Warhorn &rarr;</a>
+  </div>
+  <div class="session-card">
+    <div class="day">Fridays</div>
+    <h3>In-Person Games</h3>
+    <p>Limited seating &mdash; one table at Pandemonium Games. Currently running the <a href="https://hoshisabi.com/rpg/icewind-dale/public/">Icewind Dale campaign</a>.</p>
+    <a href="https://warhorn.net/events/pandodnd">Sign up on Warhorn &rarr;</a>
+  </div>
+</div>
 
-![](media/IMG_9232.JPG)
+## Find Us
 
-We are currently playing online only, while things are under flux at the game store.
-
-We play every Wednesday night from 7pm until roughly 9pm
-and Saturdays from 2pm until roughly 6pm
-
-* Our [Warhorn](https://warhorn.net/events/pandodnd), to sign up for our games:
-* Our [Discord server](https://discord.gg/dbB5RYH5P7), to chat with folks and participate in online games
-* Our [Facebook group](https://www.facebook.com/groups/PandoDnD)
-* [Pandemonium's Webpage](https://pandogames.com/)
-* [Pandemonium's Discord Server](https://discord.gg/Hy2cTGN2fp)
-* [Pandemonium's Facebook page](https://www.facebook.com/PandoGames)
-
-This site is dedicated to the memory of Robert "Joey" Ditsch
+<div class="links-grid">
+  <div class="link-item"><a href="https://discord.gg/dbB5RYH5P7">Discord Server</a></div>
+  <div class="link-item"><a href="https://www.facebook.com/groups/PandoDnD">Facebook Group</a></div>
+  <div class="link-item"><a href="https://pandogames.com/">Pandemonium Games</a></div>
+  <div class="link-item"><a href="https://discord.gg/Hy2cTGN2fp">Pandemonium's Discord</a></div>
+  <div class="link-item"><a href="https://www.facebook.com/PandoGames">Pandemonium's Facebook</a></div>
+</div>
