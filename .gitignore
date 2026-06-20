@@ -1,1 +1,7 @@
 /.idea/
+output/
+Gemfile
+Gemfile.lock
+_site/
+.bundle/
+.jekyll-cache/

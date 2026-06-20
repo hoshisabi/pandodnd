@@ -4,9 +4,11 @@ title: Pando DnD — D&D Adventurers League at Pandemonium Games
 ---
 
 <div class="hero">
-  <h1>D&D Adventurers League</h1>
-  <p class="subtitle">At Pandemonium Games and Hobbies &mdash; 6033 Middlebelt Rd, Garden City, MI 48135</p>
+  <h1>Pando DnD</h1>
+  <p class="subtitle">Both Online and at <a href="https://pandogames.com/">Pandemonium Games and Hobbies</a></p>
 </div>
+
+<p class="section-note">Pando DnD started as a group gaming at Pandemonium Games and Hobbies, and we've since branched out to run online tables too &mdash; wherever you play, everyone's welcome. We're not officially run by Pandemonium, but we're happy regulars, and we recommend them as a friendly, welcoming local game store.</p>
 
 ## When We Play
 
@@ -25,12 +27,39 @@ title: Pando DnD — D&D Adventurers League at Pandemonium Games
   </div>
 </div>
 
+## D&D Encounters at Pandemonium
+
+<div class="session-card">
+  <img class="flyer" src="/media/dnd-encounters-season-of-horror.webp" alt="D&D Encounters: Season of Horror flyer, Pandemonium Games and Hobbies">
+  <p>Pandemonium is running its own <strong>D&amp;D Encounters</strong> series this summer &mdash; <em>Season of Horror</em>, two 4-week mini-campaigns. This one's organized by the store, not Pando DnD, but it's a great way to get more games in.</p>
+  <ul>
+    <li>Sundays at 1pm with Andrew, Thursdays at 6:30pm with Vanya &mdash; June 28th through July 23rd</li>
+    <li>Tickets are $10, and you get $5 back in store credit</li>
+    <li>Up to 5 players per session, pregenerated characters provided</li>
+    <li>Drop in whenever &mdash; you don't need to attend every session</li>
+  </ul>
+  <a href="https://pandogames.com/pages/events">Check Pandemonium's event listings &rarr;</a>
+</div>
+
 ## Find Us
 
-<div class="links-grid">
-  <div class="link-item"><a href="https://discord.gg/dbB5RYH5P7">Discord Server</a></div>
-  <div class="link-item"><a href="https://www.facebook.com/groups/PandoDnD">Facebook Group</a></div>
-  <div class="link-item"><a href="https://pandogames.com/">Pandemonium Games</a></div>
-  <div class="link-item"><a href="https://discord.gg/Hy2cTGN2fp">Pandemonium's Discord</a></div>
-  <div class="link-item"><a href="https://www.facebook.com/PandoGames">Pandemonium's Facebook</a></div>
+<div class="find-us">
+  <div class="find-us-col">
+    <h3>PandoDnD</h3>
+    <ul>
+      <li><a href="https://warhorn.net/events/pandodnd">Warhorn (sign up)</a></li>
+      <li><a href="https://discord.gg/dbB5RYH5P7">Discord</a></li>
+      <li><a href="https://www.facebook.com/groups/PandoDnD">Facebook Group</a></li>
+      <li><a href="https://hoshisabi.com/rpg/icewind-dale/public/">Icewind Dale Campaign</a></li>
+    </ul>
+  </div>
+  <div class="find-us-col">
+    <h3>Pandemonium Games and Hobbies</h3>
+    <ul>
+      <li><a href="https://pandogames.com/">Store</a></li>
+      <li><a href="https://www.facebook.com/PandoGames">Facebook</a></li>
+      <li><a href="https://discord.com/invite/knY4MDnsuF">Discord</a></li>
+      <li><a href="https://pandogames.com/pages/events">Events Calendar</a></li>
+    </ul>
+  </div>
 </div>
