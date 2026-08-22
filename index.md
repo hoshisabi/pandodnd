@@ -27,16 +27,19 @@ title: Pando DnD — D&D Adventurers League at Pandemonium Games
   </div>
 </div>
 
-## D&D Encounters at Pandemonium
+## D&D One-Shot Days at Pandemonium
 
 <div class="session-card">
-  <img class="flyer" src="/media/dnd-encounters-season-of-horror.webp" alt="D&D Encounters: Season of Horror flyer, Pandemonium Games and Hobbies">
-  <p>Pandemonium is running its own <strong>D&amp;D Encounters</strong> series this summer &mdash; <em>Season of Horror</em>, two 4-week mini-campaigns. This one's organized by the store, not Pando DnD, but it's a great way to get more games in.</p>
+  <!-- TODO: add flyer at media/dnd-summer-side-quests.webp, then uncomment
+  <img class="flyer" src="/media/dnd-summer-side-quests.webp" alt="D&D One-Shot Days: Summer Side Quests flyer, Pandemonium Games and Hobbies">
+  -->
+  <p>Pandemonium is running a <strong>D&amp;D One-Shot Series &mdash; Summer Side Quests</strong>! DMs Vanya and Andrew are back to guide new and experienced players alike through some fun, casual D&amp;D. This one's organized by the store, not Pando DnD, but it's a great way to get more games in.</p>
   <ul>
-    <li>Sundays at 1pm with Andrew, Thursdays at 6:30pm with Vanya &mdash; June 28th through July 23rd</li>
-    <li>Tickets are $10, and you get $5 back in store credit</li>
-    <li>Up to 5 players per session, pregenerated characters provided</li>
-    <li>Drop in whenever &mdash; you don't need to attend every session</li>
+    <li>Thursdays at 6:30pm and Sundays at 3:30pm</li>
+    <li>Entry is $10 per session</li>
+    <li>Each session is a stand-alone one-shot &mdash; sign up for all of them or just pop in and play</li>
+    <li>Pregenerated characters provided</li>
+    <li>Preregister to reserve your spot &mdash; seats are limited</li>
   </ul>
   <a href="https://pandogames.com/pages/events">Check Pandemonium's event listings &rarr;</a>
 </div>
