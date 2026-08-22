@@ -30,9 +30,7 @@ title: Pando DnD — D&D Adventurers League at Pandemonium Games
 ## D&D One-Shot Days at Pandemonium
 
 <div class="session-card">
-  <!-- TODO: add flyer at media/dnd-summer-side-quests.webp, then uncomment
   <img class="flyer" src="/media/dnd-summer-side-quests.webp" alt="D&D One-Shot Days: Summer Side Quests flyer, Pandemonium Games and Hobbies">
-  -->
   <p>Pandemonium is running a <strong>D&amp;D One-Shot Series &mdash; Summer Side Quests</strong>! DMs Vanya and Andrew are back to guide new and experienced players alike through some fun, casual D&amp;D. This one's organized by the store, not Pando DnD, but it's a great way to get more games in.</p>
   <ul>
     <li>Thursdays at 6:30pm and Sundays at 3:30pm</li>
